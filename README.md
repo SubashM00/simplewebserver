@@ -68,6 +68,8 @@ Testing the webserver.
 
 ## OUTPUT:
 ![Alt text](<Screenshot (3).png>)
+![Screenshot (4)](https://github.com/SubashM00/simplewebserver/assets/144870586/b45c8ca0-a1c8-4073-b47d-c3d3b38d085e)
+
 
 
 ## RESULT:
